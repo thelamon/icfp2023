@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/icfp2023.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.ipynb_checkpoints/plotly-checkpoint.py
